@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchMovies</string>
+    <string name="network_not_available">Please check your internet connection.</string>
+    <string name="string_search">Search Movies</string>
+</resources>
